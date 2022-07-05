@@ -1,0 +1,5 @@
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\Common\CommonClass\bin\Debug\CommonClass.dll
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\Common\CommonClass\bin\Debug\CommonClass.pdb
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\Common\CommonClass\obj\Debug\CommonClass.csproj.CoreCompileInputs.cache
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\Common\CommonClass\obj\Debug\CommonClass.dll
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\Common\CommonClass\obj\Debug\CommonClass.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d0c0c3d-9788-4c4c-8f6c-6876d8ce8f7d": {
+      "ProjectGuid": "0d0c0c3d-9788-4c4c-8f6c-6876d8ce8f7d",
+      "DisplayName": "DxTC-RestApi",
+      "ColorIndex": 0
+    },
+    "8e2cc5f6-f00b-453b-9b82-77f723a9f115": {
+      "ProjectGuid": "8e2cc5f6-f00b-453b-9b82-77f723a9f115",
+      "DisplayName": "SharedLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

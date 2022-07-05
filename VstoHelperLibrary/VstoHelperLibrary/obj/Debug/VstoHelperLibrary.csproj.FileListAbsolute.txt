@@ -1,0 +1,6 @@
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\VstoHelperLibrary\VstoHelperLibrary\bin\Debug\VstoHelperLibrary.dll
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\VstoHelperLibrary\VstoHelperLibrary\bin\Debug\VstoHelperLibrary.pdb
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\VstoHelperLibrary\VstoHelperLibrary\obj\Debug\VstoHelperLibrary.csproj.AssemblyReference.cache
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\VstoHelperLibrary\VstoHelperLibrary\obj\Debug\VstoHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\VstoHelperLibrary\VstoHelperLibrary\obj\Debug\VstoHelperLibrary.dll
+C:\Users\kartikey.rai\OneDrive - Litera\Litera-Code\R-Systems Code\Re-Platforming_DxTC\VstoHelperLibrary\VstoHelperLibrary\obj\Debug\VstoHelperLibrary.pdb

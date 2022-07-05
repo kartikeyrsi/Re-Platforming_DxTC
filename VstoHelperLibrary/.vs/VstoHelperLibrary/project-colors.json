@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a923d368-8d23-460e-9742-33ff9a3e0b7e": {
+      "ProjectGuid": "a923d368-8d23-460e-9742-33ff9a3e0b7e",
+      "DisplayName": "VstoHelperLibrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -10,7 +10,17 @@
       "ProjectGuid": "8e2cc5f6-f00b-453b-9b82-77f723a9f115",
       "DisplayName": "SharedLibrary",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ef5fb544-6431-463f-85ed-135c9a762267": {
+      "ProjectGuid": "ef5fb544-6431-463f-85ed-135c9a762267",
+      "DisplayName": "SharedLibrary",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
